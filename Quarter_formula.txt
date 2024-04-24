@@ -1,0 +1,8 @@
+Quarter = 
+SWITCH (
+    TRUE (),
+    House_Ex[Month] IN {"January", "February", "March"}, "Q1",
+    House_Ex[Month] IN {"April", "May", "June"}, "Q2",
+    House_Ex[Month] IN {"July", "August", "September"}, "Q3",
+    House_Ex[Month] IN {"October", "November", "December"}, "Q4"
+)
