@@ -1,0 +1,16 @@
+﻿Invoice No,Month,Date,Season,Category,Amount
+INV101,January,05-01-2024,Winter,Electricty,150
+INV102,February,12-02-2024,Winter,Grocery,500
+INV103,March,20-03-2024,Spring,Rent,1500
+INV104,April,08-04-2024,Spring,Internet,500
+INV105,May,15-05-2024,Spring,Entertainment,350
+INV106,June,22-06-2024,Summer,Water,1000
+INV107,July,10-07-2024,Summer,Grocery,400
+INV108,August,18-08-2024,Summer,Electricity,300
+INV109,September,05-09-2024,Fall,Internet,500
+INV110,October,12-10-2024,Fall,Gas,2000
+INV111,November,20-11-2024,Fall,Maintainence,1200
+INV112,December,09-12-2024,Winter,Grocery,400
+INV113,January,05-01-2025,Winter,Electricity,175
+INV114,February,12-02-2025,Winter,Internet,500
+INV115,March,20-03-2025,Spring,Rent,1600
